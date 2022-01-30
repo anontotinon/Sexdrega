@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70ddf0b7a40eced489202372b4d0be46, type: 3}
+  m_Name: Stone
+  m_EditorClassIdentifier: 
+  name: stone
+  type: stone
+  description: Sell it or use it... Or Throw it.
+  value: 3
+  icon: {fileID: 21300000, guid: 86d11eccf417fdf499dae8c5694a0e19, type: 3}
+  isDefaultItem: 0
+  weight: 0
